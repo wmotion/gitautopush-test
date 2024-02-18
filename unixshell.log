@@ -1,0 +1,32 @@
+false
+nonsense
+man grep -v
+grep --help
+echo date
+date
+echo date
+echo $(date)
+ls
+git status 
+ls
+cd ..
+ls
+cd ../2402-scw-oxf/
+ls
+mkdir gitautopush
+ls gitautopush
+cat gitautopush/git.log 
+rm -f gitautopush/
+rm -r  gitautopush/
+git clone git@github.com:wmotion/gitautopush-test.git 
+mv gitautopush-test/ gitautopush
+ls gitautopush/
+cat gitautopush/git.log 
+ls gitautopush/
+cat gitautopush/git.log 
+ls gitautopush/
+ls -a
+cd gitautopush/
+ls -a
+source ../../0000-carpentries/terminal3.sh 
+nano ../../0000-carpentries/terminal3.sh 
